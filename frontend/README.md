@@ -1,3 +1,5 @@
-Run npm i
+Run the command: 
+$npm i
+$npm start
 
-Run npm start
+Open http://localhost:3000/
