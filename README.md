@@ -1,4 +1,4 @@
-# 6889spark
+# Stock Price Prediction Based on Social Media Streaming Data
 This repository is for the final project for ELEN E-6889 Large Scale Data Stream Processing.      
 
 
